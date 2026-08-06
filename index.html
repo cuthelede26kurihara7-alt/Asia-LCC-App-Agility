@@ -15,76 +15,81 @@ Measuring Business Agility Through Digital Behavior
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    max-width: 1000px;
+    max-width: 1100px;
     margin: auto;
     padding: 40px;
     line-height: 1.7;
-    color: #333;
+    color: #222;
 }
 
 h1 {
-    font-size: 42px;
-    line-height: 1.2;
+    font-size: 48px;
+    line-height: 1.15;
 }
 
 h2 {
     margin-top: 60px;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 10px;
+    font-size: 32px;
 }
 
 h3 {
-    margin-top: 30px;
+    margin-top: 35px;
 }
 
 .subtitle {
-    font-size: 22px;
+    font-size: 24px;
     color: #666;
-    margin-bottom: 30px;
 }
 
-.hero-image {
-    width: 100%;
-    border-radius: 12px;
-    margin: 30px 0;
+.hero {
+    width:100%;
+    border-radius:15px;
+    margin:40px 0;
 }
-
 
 .app-image {
-    width: 70%;
-    display: block;
-    margin: 30px auto;
-    border-radius: 12px;
+    width:65%;
+    display:block;
+    margin:30px auto;
+    border-radius:12px;
 }
 
+.section {
+    margin-top:50px;
+}
 
 .highlight {
-    background: #f5f5f5;
-    padding: 25px;
-    border-radius: 12px;
-    margin: 30px 0;
+    background:#f5f5f5;
+    padding:25px;
+    border-radius:12px;
 }
 
+table {
+    border-collapse: collapse;
+    width:100%;
+}
+
+td, th {
+    border:1px solid #ddd;
+    padding:12px;
+}
 
 .chart {
-    margin: 40px 0;
+    margin:40px 0;
 }
-
 
 .source {
-    font-size: 14px;
-    color: #666;
+    font-size:14px;
+    color:#666;
 }
 
-
 </style>
+
 
 </head>
 
 
-
 <body>
-
 
 
 <h1>
@@ -101,68 +106,133 @@ How Airlines Adapt Their Digital Platforms in Asia’s Competitive Aviation Mark
 <img 
 src="images/AirAsia.png"
 alt="AirAsia aircraft at airport"
-class="hero-image"
+class="hero"
 >
 
 
 
+
 <h2>
-Introduction
+Why This Matters
 </h2>
 
 
 <p>
-In today's digital economy, business agility is increasingly reflected in how companies continuously improve their digital products and services.
+The airline industry has always been shaped by competition.
 </p>
 
 
 <p>
-Airline mobile apps provide a unique window into this behavior. Beyond booking flights, airline platforms now connect customers with loyalty programs, payments, travel services, and operational communication.
+Historically, airlines competed through aircraft fleets, international routes, and pricing strategies.
 </p>
 
 
 <p>
-This project explores how airline app update patterns reveal different approaches to digital agility.
+Today, competition is increasingly happening through digital experiences.
 </p>
 
 
+<p>
+Mobile apps are no longer only booking tools. They have become platforms where airlines interact with customers, manage services, and continuously improve the travel experience.
+</p>
+
+
+<p>
+But one question remains:
+</p>
 
 
 <div class="highlight">
 
-<h3>
+<strong>
+How can we measure whether a company is truly agile in a digital economy?
+</strong>
+
+</div>
+
+
+
+
+
+<h2>
 Research Question
+</h2>
+
+
+<h3>
+Can digital behavior reveal business agility?
 </h3>
 
 
 <p>
-<strong>
-How can we measure business agility through digital behavior?
-</strong>
+Business agility is often discussed as the ability to respond quickly to change. However, agility is difficult to measure.
 </p>
 
 
 <p>
-This project measures digital agility through two dimensions:
+This project uses airline app updates as a visible indicator of how companies adapt.
 </p>
 
 
 <ul>
 
 <li>
-<strong>Speed:</strong>
-How frequently airlines improve their digital platforms.
+How often airlines improve their digital platforms
 </li>
 
+<li>
+What types of improvements they prioritize
+</li>
 
 <li>
-<strong>Strategic Focus:</strong>
-What types of improvements airlines prioritize.
+How digital strategies differ between low-cost and full-service carriers
 </li>
 
 </ul>
 
-</div>
+
+
+
+
+<h2>
+Data
+</h2>
+
+
+<p>
+I analyzed mobile app release notes from four airlines connected to the Asian aviation market.
+</p>
+
+
+
+<table>
+
+<tr>
+<th>Airline</th>
+<th>Business Model</th>
+</tr>
+
+<tr>
+<td>AirAsia</td>
+<td>Low-cost carrier</td>
+</tr>
+
+<tr>
+<td>Scoot</td>
+<td>Low-cost carrier</td>
+</tr>
+
+<tr>
+<td>ZIPAIR</td>
+<td>Low-cost carrier</td>
+</tr>
+
+<tr>
+<td>JAL</td>
+<td>Full-service carrier</td>
+</tr>
+
+</table>
 
 
 
@@ -180,9 +250,11 @@ Release notes were collected from Apple App Store version histories.
 
 <img
 src="images/AppStoreZIPAIR.png"
-alt="ZIPAIR App Store version history"
+alt="ZIPAIR App Store release notes"
 class="app-image"
 >
+
+
 
 
 
@@ -192,14 +264,18 @@ Chart 1: How Airlines Adapt Digitally: App Update Patterns (2024–2026)
 
 
 <p>
-App update frequency provides one indicator of how actively companies adapt their digital platforms.
+The first chart measures the speed of digital adaptation.
 </p>
 
+
+<p>
+The number of app updates provides an indicator of how actively airlines continue improving their digital platforms.
+</p>
 
 
 <div class="chart">
 
-<!-- Insert Datawrapper Embed Code Here -->
+<!-- Paste Datawrapper Embed Code Here -->
 
 </div>
 
@@ -213,27 +289,19 @@ Chart 2: Digital Agility Profiles: How Airlines Evolve Their Apps
 
 
 <p>
-Release notes were manually classified into four digital improvement areas:
+Each release note was manually classified into four categories:
 </p>
 
 
 <ul>
 
-<li>
-Customer Experience
-</li>
+<li>Customer Experience</li>
 
-<li>
-Feature Development
-</li>
+<li>Feature Development</li>
 
-<li>
-Maintenance
-</li>
+<li>Maintenance</li>
 
-<li>
-Network Expansion
-</li>
+<li>Network Expansion</li>
 
 </ul>
 
@@ -241,7 +309,7 @@ Network Expansion
 
 <div class="chart">
 
-<!-- Insert Flourish Embed Code Here -->
+<!-- Paste Flourish Embed Code Here -->
 
 </div>
 
@@ -252,40 +320,37 @@ Network Expansion
 
 
 <h2>
-Key Findings
+Key Insights
 </h2>
 
 
+<h3>
+Digital agility does not have one definition.
+</h3>
+
+
 <p>
-Digital agility is not one-size-fits-all. Airlines adapt differently depending on their business models and strategic priorities.
+The analysis shows that companies adapt according to their business models.
 </p>
 
 
 <ul>
 
 <li>
-<strong>AirAsia:</strong>
-Customer-experience-focused digital strategy.
+<strong>AirAsia:</strong> Scaling customer experience through digital platforms.
 </li>
-
 
 <li>
-<strong>Scoot:</strong>
-Balanced improvements across multiple digital areas.
+<strong>Scoot:</strong> Balanced digital experimentation across multiple areas.
 </li>
-
 
 <li>
-<strong>ZIPAIR:</strong>
-Growth-oriented strategy combining operational improvement and network expansion.
+<strong>ZIPAIR:</strong> Building digital infrastructure to support growth.
 </li>
-
 
 <li>
-<strong>JAL:</strong>
-Reliability and maintenance-focused strategy as a full-service carrier.
+<strong>JAL:</strong> Maintaining reliability and operational stability.
 </li>
-
 
 </ul>
 
@@ -299,44 +364,63 @@ Methodology
 
 
 <p>
-App release histories were collected from Apple App Store version histories for AirAsia, Scoot, ZIPAIR, and Japan Airlines (JAL).
+Sources:
 </p>
+
+
+<ul>
+
+<li>Apple App Store version histories</li>
+
+<li>Airline mobile app release notes</li>
+
+</ul>
 
 
 <p>
-Each release note was manually classified into four categories:
-Customer Experience, Feature Development, Maintenance, and Network Expansion.
+Each update was manually classified into:
 </p>
+
+
+<ul>
+
+<li>Customer Experience</li>
+<li>Feature Development</li>
+<li>Maintenance</li>
+<li>Network Expansion</li>
+
+</ul>
 
 
 
 
 
 <h2>
-Limitations
+Conclusion
 </h2>
 
 
 <p>
-Release notes represent publicly communicated improvements and may not capture all internal development activities. However, they provide a transparent view into how companies communicate and prioritize digital evolution.
+Digital transformation is often measured through technology adoption.
 </p>
 
 
-
-
-
-<h2>
-Sources
-</h2>
-
-
-<p class="source">
-Apple App Store version history.
+<p>
+This project explores another perspective:
 </p>
 
 
-<p class="source">
-Release notes were manually collected and classified by the author.
+<div class="highlight">
+
+<strong>
+Digital behavior can reveal business agility.
+</strong>
+
+</div>
+
+
+<p>
+By observing what companies improve, how frequently they improve, and where they invest their effort, we can better understand how organizations adapt in competitive markets.
 </p>
 
 
@@ -360,7 +444,24 @@ Tools
 
 
 
+
+
+<h2>
+Source
+</h2>
+
+
+<p class="source">
+Apple App Store version history.
+</p>
+
+
+<p class="source">
+Release notes were manually collected and classified by the author.
+</p>
+
+
+
 </body>
 
 </html>
-
