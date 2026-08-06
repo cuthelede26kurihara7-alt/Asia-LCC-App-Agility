@@ -13,80 +13,131 @@ Measuring Business Agility Through Digital Behavior
 
 <style>
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    max-width: 1100px;
+
+    font-family: 'Inter', Arial, sans-serif;
+    max-width: 1000px;
     margin: auto;
-    padding: 40px;
-    line-height: 1.7;
-    color: #222;
+    padding: 50px 40px;
+    line-height: 1.8;
+    color:#222;
+
 }
+
 
 h1 {
-    font-size: 48px;
-    line-height: 1.15;
+
+    font-size:52px;
+    font-weight:800;
+    line-height:1.1;
+    letter-spacing:-1px;
+
 }
+
 
 h2 {
-    margin-top: 60px;
-    font-size: 32px;
+
+    margin-top:70px;
+    font-size:32px;
+    font-weight:700;
+
 }
+
 
 h3 {
-    margin-top: 35px;
+
+    margin-top:35px;
+    font-size:22px;
+    font-weight:600;
+
 }
+
 
 .subtitle {
-    font-size: 24px;
-    color: #666;
+
+    font-size:24px;
+    color:#666;
+    margin-bottom:20px;
+
 }
+
+
+.byline {
+
+    font-size:14px;
+    color:#777;
+    margin-bottom:40px;
+
+}
+
+
+p {
+
+    font-size:18px;
+
+}
+
 
 .hero {
+
     width:100%;
-    border-radius:15px;
+    border-radius:16px;
     margin:40px 0;
+
 }
+
 
 .app-image {
+
     width:65%;
     display:block;
-    margin:30px auto;
+    margin:40px auto;
     border-radius:12px;
+
 }
 
-.section {
-    margin-top:50px;
-}
 
 .highlight {
-    background:#f5f5f5;
-    padding:25px;
-    border-radius:12px;
+
+    background:#f6f6f6;
+    padding:30px;
+    border-radius:14px;
+    margin:40px 0;
+    font-size:20px;
+
 }
 
-table {
-    border-collapse: collapse;
-    width:100%;
-}
-
-td, th {
-    border:1px solid #ddd;
-    padding:12px;
-}
 
 .chart {
-    margin:40px 0;
+
+    margin:50px 0;
+
 }
 
-.source {
-    font-size:14px;
-    color:#666;
+
+ul {
+
+    font-size:18px;
+
 }
+
+
+.source {
+
+    font-size:14px;
+    color:#777;
+
+}
+
 
 </style>
 
 
 </head>
+
 
 
 <body>
@@ -102,9 +153,14 @@ How Airlines Adapt Their Digital Platforms in Asia’s Competitive Aviation Mark
 </p>
 
 
+<p class="byline">
+By Nana Kurihara | Data Journalism Project | August 2026
+</p>
+
+
 
 <img 
-src="images/AirAsia.png"
+src="images/AirAisa.png"
 alt="AirAsia aircraft at airport"
 class="hero"
 >
@@ -123,7 +179,7 @@ The airline industry has always been shaped by competition.
 
 
 <p>
-Historically, airlines competed through aircraft fleets, international routes, and pricing strategies.
+For decades, airlines competed through aircraft fleets, international routes, and pricing strategies.
 </p>
 
 
@@ -133,7 +189,7 @@ Today, competition is increasingly happening through digital experiences.
 
 
 <p>
-Mobile apps are no longer only booking tools. They have become platforms where airlines interact with customers, manage services, and continuously improve the travel experience.
+Mobile apps have become more than booking tools. They connect customers with travel services, loyalty programs, payments, and daily interactions with airlines.
 </p>
 
 
@@ -144,9 +200,7 @@ But one question remains:
 
 <div class="highlight">
 
-<strong>
 How can we measure whether a company is truly agile in a digital economy?
-</strong>
 
 </div>
 
@@ -165,27 +219,78 @@ Can digital behavior reveal business agility?
 
 
 <p>
-Business agility is often discussed as the ability to respond quickly to change. However, agility is difficult to measure.
+Business agility is often described as the ability to respond quickly to change. However, measuring agility is difficult.
 </p>
 
 
 <p>
-This project uses airline app updates as a visible indicator of how companies adapt.
+This project uses airline mobile app updates as a visible indicator of how companies continuously adapt their digital platforms.
+</p>
+
+
+<p>
+The analysis focuses on two questions:
 </p>
 
 
 <ul>
 
 <li>
-How often airlines improve their digital platforms
+How frequently do airlines improve their digital platforms?
 </li>
 
 <li>
-What types of improvements they prioritize
+What types of improvements do they prioritize?
+</li>
+
+</ul>
+
+
+
+
+
+
+<h2>
+The Data
+</h2>
+
+
+<p>
+I analyzed mobile app release notes from four airlines connected to the Asian aviation market:
+</p>
+
+
+<ul>
+
+<li>AirAsia</li>
+<li>Scoot</li>
+<li>ZIPAIR</li>
+<li>Japan Airlines (JAL)</li>
+
+</ul>
+
+
+<p>
+Each release note was manually classified into four categories:
+</p>
+
+
+<ul>
+
+<li>
+Customer Experience
 </li>
 
 <li>
-How digital strategies differ between low-cost and full-service carriers
+Feature Development
+</li>
+
+<li>
+Maintenance
+</li>
+
+<li>
+Network Expansion
 </li>
 
 </ul>
@@ -195,51 +300,7 @@ How digital strategies differ between low-cost and full-service carriers
 
 
 <h2>
-Data
-</h2>
-
-
-<p>
-I analyzed mobile app release notes from four airlines connected to the Asian aviation market.
-</p>
-
-
-
-<table>
-
-<tr>
-<th>Airline</th>
-<th>Business Model</th>
-</tr>
-
-<tr>
-<td>AirAsia</td>
-<td>Low-cost carrier</td>
-</tr>
-
-<tr>
-<td>Scoot</td>
-<td>Low-cost carrier</td>
-</tr>
-
-<tr>
-<td>ZIPAIR</td>
-<td>Low-cost carrier</td>
-</tr>
-
-<tr>
-<td>JAL</td>
-<td>Full-service carrier</td>
-</tr>
-
-</table>
-
-
-
-
-
-<h2>
-Data Source Example
+Data Source
 </h2>
 
 
@@ -259,18 +320,19 @@ class="app-image"
 
 
 <h2>
-Chart 1: How Airlines Adapt Digitally: App Update Patterns (2024–2026)
+Measuring the Speed of Digital Adaptation
 </h2>
 
 
 <p>
-The first chart measures the speed of digital adaptation.
+The first chart compares app update frequency between 2024 and 2026.
 </p>
 
 
 <p>
-The number of app updates provides an indicator of how actively airlines continue improving their digital platforms.
+Update frequency provides one visible indicator of how actively companies continue improving their digital platforms.
 </p>
+
 
 
 <div class="chart">
@@ -284,27 +346,13 @@ The number of app updates provides an indicator of how actively airlines continu
 
 
 <h2>
-Chart 2: Digital Agility Profiles: How Airlines Evolve Their Apps
+Different Airlines, Different Paths to Agility
 </h2>
 
 
 <p>
-Each release note was manually classified into four categories:
+The second visualization examines what airlines prioritize when improving their digital platforms.
 </p>
-
-
-<ul>
-
-<li>Customer Experience</li>
-
-<li>Feature Development</li>
-
-<li>Maintenance</li>
-
-<li>Network Expansion</li>
-
-</ul>
-
 
 
 <div class="chart">
@@ -317,42 +365,119 @@ Each release note was manually classified into four categories:
 
 
 
-
-
 <h2>
-Key Insights
+What the Data Reveals
 </h2>
 
 
+
 <h3>
-Digital agility does not have one definition.
+AirAsia: Scaling Customer Experience
 </h3>
 
 
 <p>
-The analysis shows that companies adapt according to their business models.
+AirAsia’s updates are strongly focused on customer experience.
 </p>
 
 
-<ul>
+<p>
+As one of Southeast Asia’s largest low-cost carriers, AirAsia uses digital platforms to efficiently serve a large and diverse customer base.
+</p>
 
-<li>
-<strong>AirAsia:</strong> Scaling customer experience through digital platforms.
-</li>
 
-<li>
-<strong>Scoot:</strong> Balanced digital experimentation across multiple areas.
-</li>
 
-<li>
-<strong>ZIPAIR:</strong> Building digital infrastructure to support growth.
-</li>
 
-<li>
-<strong>JAL:</strong> Maintaining reliability and operational stability.
-</li>
 
-</ul>
+<h3>
+Scoot: Continuous Digital Experimentation
+</h3>
+
+
+<p>
+Scoot shows a more balanced approach across customer experience, features, and maintenance.
+</p>
+
+
+<p>
+This suggests a strategy focused on improving multiple digital touchpoints simultaneously.
+</p>
+
+
+
+
+
+<h3>
+ZIPAIR: Digital Infrastructure for Growth
+</h3>
+
+
+<p>
+ZIPAIR combines operational improvements with network expansion.
+</p>
+
+
+<p>
+As a newer airline brand, its digital strategy reflects the need to build scalable systems while supporting growth.
+</p>
+
+
+
+
+
+<h3>
+JAL: Reliability as Digital Agility
+</h3>
+
+
+<p>
+JAL demonstrates a different form of agility.
+</p>
+
+
+<p>
+Rather than focusing primarily on rapid feature changes, JAL emphasizes reliability and operational stability.
+</p>
+
+
+
+
+
+<h2>
+Conclusion
+</h2>
+
+
+<p>
+Digital agility does not have one definition.
+</p>
+
+
+<p>
+The data shows that airlines adapt according to their business models.
+</p>
+
+
+<p>
+Low-cost carriers often use digital platforms to improve scalability and customer interaction.
+</p>
+
+
+<p>
+Full-service carriers focus more on reliability and trust.
+</p>
+
+
+<div class="highlight">
+
+Digital behavior can reveal how companies adapt.
+
+</div>
+
+
+<p>
+By observing what companies improve, how frequently they improve, and where they invest their effort, we can better understand business agility in competitive markets.
+</p>
 
 
 
@@ -370,66 +495,20 @@ Sources:
 
 <ul>
 
-<li>Apple App Store version histories</li>
+<li>
+Apple App Store version histories
+</li>
 
-<li>Airline mobile app release notes</li>
-
-</ul>
-
-
-<p>
-Each update was manually classified into:
-</p>
-
-
-<ul>
-
-<li>Customer Experience</li>
-<li>Feature Development</li>
-<li>Maintenance</li>
-<li>Network Expansion</li>
+<li>
+Airline mobile app release notes
+</li>
 
 </ul>
 
 
-
-
-
-<h2>
-Conclusion
-</h2>
-
-
 <p>
-Digital transformation is often measured through technology adoption.
+Tools:
 </p>
-
-
-<p>
-This project explores another perspective:
-</p>
-
-
-<div class="highlight">
-
-<strong>
-Digital behavior can reveal business agility.
-</strong>
-
-</div>
-
-
-<p>
-By observing what companies improve, how frequently they improve, and where they invest their effort, we can better understand how organizations adapt in competitive markets.
-</p>
-
-
-
-
-
-<h2>
-Tools
-</h2>
 
 
 <ul>
