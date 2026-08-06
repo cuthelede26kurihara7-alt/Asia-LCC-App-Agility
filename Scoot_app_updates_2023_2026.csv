@@ -1,0 +1,105 @@
+version,date,release_note,airline,category
+3.31.1,2026-06-19,"Get ready to fly with more fun! We've made booking and searching a breeze. Discover nearby airports, enjoy personalized currency conversion, and breeze through passenger name entry with our new guidance and single name checkbox. Plus, we've squashed bugs for a smoother, speedier Scoot experience!",Scoot,Customer Experience
+3.31.0,2026-06-04,"Get ready to fly with more fun! We've made booking and searching a breeze. Discover nearby airports, enjoy personalized currency conversion, and breeze through passenger name entry with our new guidance and single name checkbox. Plus, we've squashed bugs for a smoother, speedier Scoot experience!",Scoot,Customer Experience
+3.30.2,2026-05-18,"Impromptu travels just got easier! 
+
+Weâve just made a fantastic update to give you more flexibility on the go. You can now book your Scoot flights up to 3 hours before your scheduled departure timeâdown from our previous 4-hour cutoff!
+
+Whether you're locking in a last-minute business trip or fueling a sudden weekend getaway, securing your seat is now faster and more convenient.
+
+Pack your bags and get ready for takeoff!",Scoot,Maintenance
+3.30.1,2026-05-05,"Impromptu travels just got easier! 
+
+Weâve just made a fantastic update to give you more flexibility on the go. You can now book your Scoot flights up to 3 hours before your scheduled departure timeâdown from our previous 4-hour cutoff!
+
+Whether you're locking in a last-minute business trip or fueling a sudden weekend getaway, securing your seat is now faster and more convenient.
+
+Pack your bags and get ready for takeoff!",Scoot,Maintenance
+3.30.0,2026-04-27,"Performance Improvements
+Various bug fixes and behind-the-scenes enhancements to make your app experience faster and more reliable.",Scoot,Maintenance
+3.29.0,2026-04-13,"New Merch Alert!
+You can now shop for exclusive Scoot merchandise directly in the app. Bag these new items for your next trip: Scoot Coffee Mug, Scoot Luggage Strap (with TSA Lock & Digital Weighing Scale), Scoot Handphone Strap, and our Scoot Snuggle Bear with Hoodie!
+
+Performance Improvements
+Various bug fixes and behind-the-scenes enhancements to make your app experience faster and more reliable.",Scoot,Feature
+3.28.0,2026-03-27,"KrisFlyer Login Updates:
+â¢ We've revamped the KrisFlyer login error messages to provide guidance when things don't quite go as planned.
+â¢ These improvements will enhance your login experience and also enable us to assist you better.
+
+Resolved Check-In Errors:
+â¢ Users who previously encountered ""unknown errors"" during check-in will be pleased to know that we've successfully resolved these issues.
+â¢ Your check-in process should now be smoother and error-free.
+
+Mobile Check-In Closing Time Adjustment:
+â¢ A noteworthy update: Mobile Check-In now closes 90 minutes before departure.
+â¢ Do take note of this change to ensure a hassle-free check-in experience.",Scoot,Customer Experience
+3.27.0,2026-03-20,"Something Fresh is Landing Soon! 
+Keep your eyes on the horizon! Weâre working on some big updates to make your travel experience smoother and more stylish than ever. We canât share the details just yet, but stay tunedâsomething fresh is coming your way very soon!
+
+Whatâs New in This Version:
+Smarter Journey Tracking: Your flight card is now more intuitive. Our upgraded tracker prioritizes the most important updates, like check-in availability and real-time flight status, so youâre always in the loop.",Scoot,Customer Experience
+3.26.1,2026-03-13,"Wheels up on improvements
+â¢ Gave the login a tidyâupâso the fields behave just the way they should.
+â¢ Clearer voucher info at a glanceâsee what each voucher is for and how to use it, no guesswork needed.
+â¢ Sharper seat smartsâclearer seat entitlements for Value and Flex bundles, plus a âseats left at this priceâ label for ScootPlus on the flight selection screen.
+And of course, the usual bug fixes and polish.",Scoot,Maintenance
+3.26.0,2026-02-13,"Wheels up on improvements
+â¢ Gave the login a tidyâupâso the fields behave just the way they should.
+â¢ Clearer voucher info at a glanceâsee what each voucher is for and how to use it, no guesswork needed.
+â¢ Sharper seat smartsâclearer seat entitlements for Value and Flex bundles, plus a âseats left at this priceâ label for ScootPlus on the flight selection screen.
+And of course, the usual bug fixes and polish.",Scoot,Maintenance
+3.25.0,2026-02-02,"â¢ Session Extension. Need more time? Extend your ongoing session with a tapâno restart needed. Timer and smarter reminders so you know how much time is left.
+â¢ Performance tweaks and bug fixes for a smoother, more reliable experience.",Scoot,Maintenance
+3.24.0,2026-01-20,"â¢ Weâve refreshed the fare breakdown to make prices easier to understand.
+â¢ Copying is now disabled on login screens for added security (pasting your very long, very secure password still works).
+â¢ Error messages in Profile are now clearer and more helpful.
+â¢ Additional security improvements to keep your account safe.",Scoot,Feature
+3.23.1,2025-12-20,"Weâve spruced up our seats! A brand-new seat legend is now in town to help you tell âPreferredâ from âStandardâ (and everything in between) at a glance.
+
+Flying to Tokyo? Youâll now see NRT and HND flights side-by-side for easier comparing, choosing, and dreaming up your perfect itinerary.
+
+And of course, we squashed a few pesky bugs along the way.",Scoot,Feature
+3.23.0,2025-12-11,"Weâve spruced up our seats! A brand-new seat legend is now in town to help you tell âPreferredâ from âStandardâ (and everything in between) at a glance.
+
+Flying to Tokyo? Youâll now see NRT and HND flights side-by-side for easier comparing, choosing, and dreaming up your perfect itinerary.
+
+And of course, we squashed a few pesky bugs along the way.",Scoot,Feature
+3.22.0,2025-11-21,"Scootsurance has landed for departures from Singapore, Malaysia, & Australia - go ahead and add that extra peace of mind!
+
+We also polished a few fields behind the scenes to keep everything spick and span.",Scoot,Feature
+3.21.0,2025-11-06,"Weâve taught our KrisFlyer sync to speak human. If youâre a Registered User without a matching KrisFlyer account, youâll now get a clear heads-up â no more vague prompts or wondering why it didnât work.
+
+The Passenger Details screen may look familiar, but itâs running on a new engine. Weâve rebuilt whatâs under the hood to make things smoother and faster, even if you canât quite see it.
+
+And of course, we fixed bugs. Because whatâs a release without a little spring cleaning?",Scoot,Feature
+3.20.0,2025-10-23,"Good news! You can now retrieve, manage, and check in for your redemption bookings right from the app. Because award flights should be as fuss-free as your regular ones.",Scoot,Customer Experience
+3.19.0,2025-10-08,"Fresh in This Update
+â¢ We chased away an extra bit of yellow hiding behind the home screen banner.
+â¢ Smarter error messages now make hiccups less confusing.
+â¢ Enhanced tracking performance for a smoother experience.",Scoot,Maintenance
+3.18.0,2025-09-18,"Fresh in this update
+â¢ Our E190-E2 Livery Model has landed! Add it to your collection - now available for purchase on the Add-ons page.
+â¢ Weâve strengthened the appâs security behind the scenes to keep your experience safe and seamless.",Scoot,Feature
+3.17.1,2025-09-04,"Better, faster, stronger. We cleaned up behind the curtain so your Scoot Mobile App is even better.",Scoot,Maintenance
+3.17.0,2025-08-27,"""Weâve spruced up the app with some nifty experience tweaks 
+â¢ Made it easier for you to know whatâs next - for example, if you update your contact email or change a name, weâll prompt you to retrieve your booking again (just to make sure itâs really you).
+â¢ Improved the age calculation for unaccompanied minors, so if youâre no longer a minor, youâll be able to select your seat without a hitch.
+â¢ And of course, the usual bug fixes and polish.""",Scoot,Maintenance
+3.16.1,2025-08-18,We've made several behind-the-scenes fixes to keep the app working smoothly and securely.,Scoot,Maintenance
+3.16.0,2025-08-05,"Weâve fine-tuned the calendar on our flight search â it now loads more intelligently on demand.
+
+Weâre working on making the checkout process smoother (and maybe a little shinier). You wonât see this just yet, but stay tuned!
+
+Behind the scenes, weâve also been working on a new way to book your flights. More on this soon!
+
+Weâre also stepping up security with smarter checks to guard against login attempts â keeping your account safer.
+
+As always, weâve squashed a few bugs and made subtle improvements to keep your journey through the app smooth and seamless.",Scoot,Customer Experience
+3.15.0,2025-07-03,"Plan further ahead - you can now view flight availability up to 1 year in advance! Weâve made security tighter, improved how we gather feedback to serve you better, and fixed a bunch of bugs. Plus, something exciting is quietly landing for our KrisFlyer members!",Scoot,Maintenance
+3.14.0,2025-06-09,"â¢ Flying to or from China or India? Weâve trimmed down the Passenger Details screen for these routes so you can zip through checkout faster. 
+
+â¢ Weâve upgraded the notification banner on your Home Screen. Now itâs not just about new versions! We can also give you a heads-up on things like scheduled maintenance and other useful updates.
+
+â¢ Weâve temporarily removed address info from your KrisFlyer profile while we work on making it more useful during bookings. Itâll be back - smarter and better.
+
+â¢ We squashed a few bugs that mightâve made paying in multiple currencies a bit confusing. Things should feel a lot clearer now.",Scoot,Customer Experience

@@ -1,0 +1,12 @@
+airline,category,count,ratio,label,value
+AirAsia,Customer Experience,25,100.0,AirAsia - Customer Experience,25
+JAL,Customer Experience,2,8.0,JAL - Customer Experience,2
+JAL,Feature,1,4.0,JAL - Feature,1
+JAL,Maintenance,22,88.0,JAL - Maintenance,22
+Scoot,Customer Experience,7,28.000000000000004,Scoot - Customer Experience,7
+Scoot,Feature,7,28.000000000000004,Scoot - Feature,7
+Scoot,Maintenance,11,44.0,Scoot - Maintenance,11
+ZIPAIR,Customer Experience,2,8.0,ZIPAIR - Customer Experience,2
+ZIPAIR,Feature,1,4.0,ZIPAIR - Feature,1
+ZIPAIR,Maintenance,18,72.0,ZIPAIR - Maintenance,18
+ZIPAIR,Network Expansion,4,16.0,ZIPAIR - Network Expansion,4

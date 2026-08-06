@@ -1,0 +1,69 @@
+version,date,release_note,airline,category
+6.3.0,2026-07-29,"Thank you very much for using the JAL app.
+
+- Passkeys are now available as a login option.
+A passkey is an authentication method that is linked to your device or password manager using a combination of fingerprint, facial, or pattern recognitions.
+It reduces the risk of unauthorized or illegal logins and phishing scams as there is no need to remember or enter passwords.
+
+- Fixed minor issues.",JAL,Maintenance
+6.2.0,2026-06-29,"Thank you very much for using the JAL app.
+- Fixed an issue where seats on international flights were displayed as âUnassignedâ even though they had already been assigned.
+- Fixed an issue where expired lounge coupons were displayed.
+- Users can now view usage instructions from the lounge coupon tile.
+- Fixed minor issues.",JAL,Maintenance
+6.1.0,2026-05-21,"Thank you very much for using the JAL App.
+- A glitch prevented flight reservations from being displayed for customers with 10 or more boarding records within the past two days, but the issue has now been resolved.
+- Fixed minor issues.",JAL,Customer Experience
+6.0.3,2026-04-23,"Thank you very much for using the JAL App.
+- Fixed an issue where a personal information consent pop-up appeared repeatedly when transitioning to the website.
+- Improved the JAL Card type display on the Membership screen.
+- Fixed minor issues.",JAL,Maintenance
+6.0.2,2026-04-16,"Thank you very much for using the JAL app.
+- We have fixed an issue where reservation information was not being updated correctly for some customers.",JAL,Maintenance
+6.0.0,2026-04-15,"Thank you very much for using the JAL app.
+----------------------------------------
+The all-new JAL app is here with this latest update!
+
+While keeping all your favorite essential features, weâve fully renewed the design to offer a more intuitive and seamless experience.
+Please download and experience the new JAL app for yourself.
+----------------------------------------",JAL,Feature
+5.3.90,2026-02-02,"Thank you very much for using the JAL app.
+- You can now search JTA (NU) flights under International Flight status.
+- Minor fixes.",JAL,Maintenance
+5.3.87,2026-01-15,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.84,2025-12-17,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.82,2025-11-26,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.80,2025-11-16,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.79,2025-11-12,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.76,2025-10-29,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.73,2025-10-16,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.71,2025-10-06,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.69,2025-09-18,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.67,2025-08-20,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.65,2025-07-23,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.62,2025-07-01,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.61,2025-05-13,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.60,2025-04-15,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.58,2025-03-26,"Thank you very much for using the JAL app.
+- Minor fixes.",JAL,Maintenance
+5.3.57,2025-03-13,"Thank you very much for using the JAL app.
+- You can now special international inflight meals as well as advance reservations using our JAL app.",JAL,Maintenance
+5.3.55,2025-02-19,"Thank you very much for using the JAL app.
+- The JAL app now informs you of the results of whether you are assigned a seat for an airport standby or a departure date upgrade on a domestic flight.",JAL,Maintenance
+5.3.53,2025-01-30,"Thank you very much for using the JAL app.
+- Can see how many days until your flight departure date and the cut-off time at the security checkpoint on your device.
+- Can jump to JAL MaaS from the international reservation flight information screen.",JAL,Customer Experience
